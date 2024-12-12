@@ -4,10 +4,6 @@ dvdv
 dddfd
 vdv
 fff
-ffff
-ddv
-fdf
-gg
-efdg
+
 seg
 dg
