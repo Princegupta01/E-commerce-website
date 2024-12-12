@@ -5,5 +5,3 @@ dddfd
 vdv
 fff
 
-seg
-dg
